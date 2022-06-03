@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Proyecto-C3-firebase/static/css/main.65986cb0.css",
+    "main.js": "/Proyecto-C3-firebase/static/js/main.1baa6be4.js",
+    "static/media/sr.png": "/Proyecto-C3-firebase/static/media/sr.0e5eeb855c64de79db04.png",
+    "static/media/help.png": "/Proyecto-C3-firebase/static/media/help.5abf7693dfa2fc6e8542.png",
+    "static/media/inicio.png": "/Proyecto-C3-firebase/static/media/inicio.b74235d3fb4574681fce.png",
+    "index.html": "/Proyecto-C3-firebase/index.html",
+    "main.65986cb0.css.map": "/Proyecto-C3-firebase/static/css/main.65986cb0.css.map",
+    "main.1baa6be4.js.map": "/Proyecto-C3-firebase/static/js/main.1baa6be4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65986cb0.css",
+    "static/js/main.1baa6be4.js"
+  ]
+}
